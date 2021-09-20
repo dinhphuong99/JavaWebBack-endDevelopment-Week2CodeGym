@@ -1,0 +1,40 @@
+
+.section { height: 100vh; }
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr{
+    border-collapse: collapse;
+    border-bottom: 1px solid black;
+    width: 100%;
+}
+
+.name{
+    width: 600px;
+}
+
+.birthday{
+    width: 150px;
+}
+
+.address{
+    width: 150px;
+}
+
+.image{
+    width: 200px;
+}
+
+thead{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+img{
+    width: 100px;
+    height: 80px;
+}
